@@ -1,2 +1,1 @@
-#MY CV
-Remo Williams
+https://remowilliamsweb.github.io/rsschool-cv/cv
