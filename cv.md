@@ -1,22 +1,20 @@
-[rsschool-cv](https://github.com/remowilliamsweb/rsschool-cv/)
+# Remo Williams
 
-#Remo Williams
+## Contact information:
+* Phone: +7 777 777 77 77
+* E-mail: webremowilliams@gamil.com
+* GitHub: @remowilliamsweb
+* Telegram: @webremowilliams
 
-##Contact information:
-Phone: +7 777 777 77 77
-E-mail: webremowilliams@gamil.com
-GitHub: @remowilliamsweb
-Telegram: @webremowilliams
-
-##About Me
+## About Me
 Adventurer :D
 
-##Courses:
+## Courses:
 Stepik.org - Web Development for begginers from ITC.
 
-##Code:
+## Code:
 `console.log("Hello World!")`
 
-##Languages:
+## Languages:
 Russian - native
 English - A1
